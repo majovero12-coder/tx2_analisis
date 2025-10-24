@@ -103,5 +103,5 @@ if text2:
 st.markdown("""
 ---
 💡 **Desarrollado con Python, TextBlob y Streamlit**  
-Autor: *Tu nombre o alias ✨*
+Autor: *Maria Jose Velasquez ✨*
 """)
